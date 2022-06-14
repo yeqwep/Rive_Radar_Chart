@@ -1,0 +1,5 @@
+scene: "/main/radar_chart.rivescene"
+default_animation: ""
+material: "/defold-rive/assets/rivemodel.material"
+blend_mode: BLEND_MODE_ALPHA
+default_state_machine: ""

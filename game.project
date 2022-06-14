@@ -1,0 +1,18 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+render = /defold-rive/lua/rive.renderc
+
+[script]
+shared_state = 1
+
+[display]
+width = 500
+height = 500
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = RiveRadarChart
+dependencies#0 = https://github.com/defold/extension-rive/archive/main.zip
+
