@@ -11,7 +11,7 @@ function on_input(self, action_id, action)
             local param = math.random(0,500)
             print("update_radar P_",i,", param : ",param)
             -- go.set("/go#radar_chart", p, param)
-             go.animate("/go#radar_chart",p,go.PLAYBACK_ONCE_FORWARD,param,go.EASING_INOUTQUART,1)
+            go.animate("/go#radar_chart",p,go.PLAYBACK_ONCE_FORWARD,param,go.EASING_INOUTQUART,1)
         end
     end
 end
