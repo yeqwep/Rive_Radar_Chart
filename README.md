@@ -8,8 +8,5 @@ This is Defold prototype of the radar chart with Rive.
 https://rive.app/community/2908-6069-radar-chart
 
 
-https://rive.app/s/JBnZC80x-U2lyddSj_t_Hw/
-
-
 Based on
 https://rive.app/community/662-1287-line-graph/
